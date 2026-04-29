@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+build/
+.gradle/
+local.properties
+*.apk
+*.aab
+.idea/
+.DS_Store
+*.log
